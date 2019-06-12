@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7d000000</color>
+    <color name="colorPrimaryDark">#0b0b0b</color>
+    <color name="colorSecondary">#96000000</color>
+    <color name="colorAccent">#FAEE85</color>
+
+    <color name="darkCream">#999797</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ocean">#862fa2ff</color>
+    <color name="oceanDark">#cf0f3d89</color>
+
+    <color name="backgroundDark">#90525358</color>
+    <color name="transparent">#00000000</color>
+    <color name="overlayBackground">#7a333639</color>
+
+</resources>

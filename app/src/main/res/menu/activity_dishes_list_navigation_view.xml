@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_by_price"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/sort_by_price" />
+        <item
+            android:id="@+id/nav_by_rating"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/sort_by_rating" />
+        <item
+            android:id="@+id/nav_veggie"
+            android:icon="@drawable/ic_veggie_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/veggie" />
+        <item
+            android:id="@+id/nav_spicy"
+            android:icon="@drawable/ic_spicy_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/spicy" />
+        <item
+            android:id="@+id/nav_not_spicy"
+            android:icon="@drawable/ic_not_spicy_black_24dp"
+            android:iconTint="@color/white"
+            android:title="@string/not_spicy" />
+
+    </group>
+
+</menu>

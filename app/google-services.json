@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "7343011961",
+    "firebase_url": "https://moon-light-28db0.firebaseio.com",
+    "project_id": "moon-light-28db0",
+    "storage_bucket": "moon-light-28db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7343011961:android:94cdd85ec9f7b7e2",
+        "android_client_info": {
+          "package_name": "com.studymobile.moonlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7343011961-96qpj7bnl7pbmor6vmjkpceg6u5uv6m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studymobile.moonlight",
+            "certificate_hash": "886ba03b3aac93133e375d8bd336eb0965c4ad54"
+          }
+        },
+        {
+          "client_id": "7343011961-lbpd9tcvjjdao2btvqpldnbf5cvdjg1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studymobile.moonlight",
+            "certificate_hash": "1d86c433a7f2f1a2f932c4a8953bdde34fc21c1a"
+          }
+        },
+        {
+          "client_id": "7343011961-cj32p0hk130cop2cb9rbm0207ifnhjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3LE4jjKkQW-8OgnmFFS-T-kt8Ca8PLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7343011961-cj32p0hk130cop2cb9rbm0207ifnhjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7343011961:android:20f9106c5d533cc4",
+        "android_client_info": {
+          "package_name": "com.studymobile.starfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7343011961-il8bf84lcguepj53vpgki8f1p9bme26n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studymobile.starfood",
+            "certificate_hash": "886ba03b3aac93133e375d8bd336eb0965c4ad54"
+          }
+        },
+        {
+          "client_id": "7343011961-cj32p0hk130cop2cb9rbm0207ifnhjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3LE4jjKkQW-8OgnmFFS-T-kt8Ca8PLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7343011961-cj32p0hk130cop2cb9rbm0207ifnhjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
