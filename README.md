@@ -23,9 +23,9 @@
 ### *1. Authentication*
 ***Include support for:***
 * *Appropriate verification and format checks*
-* *Remote config parameter *"allow_ annoymous_user"*(boolean):*
-  * *(i) *true* - allow anonymous user to access to the app’s home screen by clicking *"SKIP"* link without sign-up/sign-in*
-  * *(ii) *false* - only authenticated users can access the app’s home screen (*"SKIP"* link is hidden)*
+* *Remote config parameter *"allow_ annoymous_user" *(boolean):*
+  * *(i) *true* - allow anonymous user to access to the app’s home screen by clicking _"SKIP"_ link without sign-up/sign-in*
+  * *(ii) *false* - only authenticated users can access the app’s home screen (_"SKIP"_ link is hidden)*
 
 #### _Email and Password:_
 <p align="center">
