@@ -1,4 +1,4 @@
-# "Star Food"
+# **"Star Food"**
 ## m-commerce mock app for ordering and delivering food, that is implemented in JAVA with using Firebase real-time database and another Firebase services
 ----------------
 
@@ -7,17 +7,19 @@
 * ***payments activity***
 * ***delivering activity***
 
-## _Demo video 1(app partial functionality):_
-  [![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/hqdefault.jpg)](https://youtu.be/94QBT6iQRAE)
+## _Demo video_1(app partial functionality):_
+  [![Watch the video](https://img.youtube.com/vi/D0brD3M8m7I/hqdefault.jpg)](https://youtu.be/D0brD3M8m7I)
 
-**_Demo video 2(Firebase developer services):_**
-  [![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/hqdefault.jpg)](https://youtu.be/94QBT6iQRAE)
+## _Demo video_2(Firebase developer services):_
+  [![Watch the video](https://img.youtube.com/vi/_HPWAmnItio/hqdefault.jpg)](https://youtu.be/_HPWAmnItio)
 
 
-## _Main functionalities:_
+## Main functionalities:
 ### 1. Authentication
+#### _Email and Password:_
 <p align="center">
-  <img src="https://github.com/DimaKarpukhin/FbWindowApp/blob/master/UMLClassDiagrams/AdapterUML.png"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/login.jpeg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/signUp.jpeg"/>
 </p>
 
 ## 3. _Factory Method:_ 
