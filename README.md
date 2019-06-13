@@ -2,6 +2,8 @@
 
 --------------
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/DimaKarpukhin/StarFoodApp/blob/master/video/appDemo.mp4)
+
 ## 1. _Singelton:_ 
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/FbWindowApp/blob/master/UMLClassDiagrams/SingeltonUML.png"/>
