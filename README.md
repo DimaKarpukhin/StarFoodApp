@@ -1,15 +1,21 @@
-# "FbWindowApp" is the C# window application, that uses Window Forms and Facebook API and implements the following Design Patterns:
+# "Star Food"
+## m-commerce mock app for ordering and delivering food, that is implemented in JAVA with using Firebase real-time database and another Firebase services
+----------------
 
---------------
+###  _*TODO:_
+* ***cart logic and cart screen***
+* ***payments activity***
+* ***delivering activity***
 
-[![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/maxresdefault.jpg)](https://youtu.be/94QBT6iQRAE)
+## _Demo video 1(app partial functionality):_
+  [![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/hqdefault.jpg)](https://youtu.be/94QBT6iQRAE)
 
-## 1. _Singelton:_ 
-<p align="center">
-  <img src="https://github.com/DimaKarpukhin/FbWindowApp/blob/master/UMLClassDiagrams/SingeltonUML.png"/>
-</p>
+**_Demo video 2(Firebase developer services):_**
+  [![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/hqdefault.jpg)](https://youtu.be/94QBT6iQRAE)
 
-## 2. _Adapter:_ 
+
+## _Main functionalities:_
+### 1. Authentication
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/FbWindowApp/blob/master/UMLClassDiagrams/AdapterUML.png"/>
 </p>
