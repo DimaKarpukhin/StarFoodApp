@@ -1,9 +1,11 @@
 # *"Star Food"*
 
-<img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/splashScreen.jpg"/>
-
 ## *m-commerce mock app for ordering and delivering food. Implemented in JAVA using Firebase real-time database and another Firebase services*
 
+<p align="center">
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/DB.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/splashScreen.jpg"/>
+</p>
 ----------------
 
 ###  _*TODO:_
@@ -84,9 +86,10 @@
 
  ### *7. Analytics (is integrated with firebase analytics and external analytics tool - Appsee:*
 <p align="center">
-  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/pushPromoPizza.jpg"/>
-  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/promoChannels.jpg"/>
-  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/pushPromoBurger.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeEvents.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeDishChoice.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeFoodCatChoice.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseePerchase.jpg"/>
 </p>
  
  
