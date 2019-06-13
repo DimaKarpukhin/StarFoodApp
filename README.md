@@ -2,7 +2,7 @@
 
 --------------
 
-[![Watch the video](https://img.youtube.com/vi/T-94QBT6iQRAE/maxresdefault.jpg)](https://youtu.be/94QBT6iQRAE)
+[![Watch the video](https://img.youtube.com/vi/94QBT6iQRAE/maxresdefault.jpg)](https://youtu.be/94QBT6iQRAE)
 
 ## 1. _Singelton:_ 
 <p align="center">
