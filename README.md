@@ -15,6 +15,7 @@
 
 
 ## Main functionalities:
+![alt text](https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/login.jpeg)
 ### 1. Authentication
 #### _Email and Password:_
 <p align="center">
