@@ -41,6 +41,6 @@
 
 ### *2. Reset Password* 
 <p align="center">
-  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/resetPswd.jpg"/>
+  <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/resetPwd.jpg"/>
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/gotMailResetPswd.jpg"/>
 </p>
