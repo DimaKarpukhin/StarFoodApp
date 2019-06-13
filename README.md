@@ -2,7 +2,7 @@
 
 --------------
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/DimaKarpukhin/StarFoodApp/blob/master/video/appDemo.mp4)
+[![Watch the video](https://img.youtube.com/vi/T-94QBT6iQRAE/maxresdefault.jpg)](https://youtu.be/94QBT6iQRAE)
 
 ## 1. _Singelton:_ 
 <p align="center">
