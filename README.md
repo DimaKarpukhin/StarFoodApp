@@ -1,6 +1,6 @@
 # *"Star Food"*
 
-## *m-commerce mock app for ordering and delivering food. Implemented in JAVA using Firebase real-time database and another Firebase services*
+## *m-commerce mock app for ordering and delivering food. Implemented in JAVA using Firebase real-time database and other Firebase services*
 
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/splashScreen.jpg"/>
