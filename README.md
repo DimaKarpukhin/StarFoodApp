@@ -85,7 +85,7 @@
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/pushPromoBurger.jpg"/>
 </p>
 
- ## *9. Analytics (is integrated with firebase analytics and external analytics tool - Appsee):*
+ ## *9. Analytics (is integrated with firebase analytics and external analytics of Appsee):*
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeEvents.jpg"/>
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeDishChoice.jpg"/>
