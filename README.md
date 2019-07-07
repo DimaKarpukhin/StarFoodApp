@@ -78,14 +78,14 @@
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/commentsRead.jpg"/>
 </p>
  
- ## *8. Push notification: (is implemented with firebase cloud messaging )*
+ ## *8. Push notifications: (is implemented with firebase cloud messaging)*
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/pushPromoPizza.jpg"/>
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/promoChannels.jpg"/>
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/pushPromoBurger.jpg"/>
 </p>
 
- ## *9. Analytics (is integrated with firebase analytics and external analytics tool - Appsee:*
+ ## *9. Analytics (is integrated with firebase analytics and external analytics tool - Appsee):*
 <p align="center">
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeEvents.jpg"/>
   <img src="https://github.com/DimaKarpukhin/StarFoodApp/blob/master/screenshots/appseeDishChoice.jpg"/>
